@@ -1,6 +1,6 @@
 # OS-EX.8-IMPLEMENTATION-OF-BANKER-S-ALGORITHM
 
-AIM:
+# AIM:
 To write a C program to implement Bankers Algorithm to avoid Deadlock.
 ALGORITHM:
 1: Get the no of processes.
@@ -27,7 +27,7 @@ ALGORITHM:
 
 12: Print the sequence if it is in safe state or print not in safe state.
 
-PROGRAM:
+# PROGRAM:
 ```python
 #include<stdio.h>
 int main ()
@@ -147,8 +147,8 @@ printf ("\nThe system is in an unsafe state!!");
 return 0;
 }
 ```
-OUTPUT:
+# OUTPUT:
 ![image](https://github.com/Raja8334/OS-EX.8-IMPLEMENTATION-OF-BANKER-S-ALGORITHM/assets/120719634/183ba464-013f-4a05-b4b6-b6bf2387a2bc)
 
-RESULT:
+# RESULT:
 Thus, implement Bankers Algorithm to avoid Deadlock is implemented successfully using c program.
